@@ -103,7 +103,7 @@
 }
 
 .generate-form button:hover {
-  background: #800195;
+  background: #a904c5;
 }
 
 .image-gallery {
@@ -166,6 +166,12 @@
   pointer-events: auto;
 }
 
+footer {
+  background-color: #d400f7; 
+  color: #fff; 
+  text-align: center; 
+  padding: 10px; 
+}
 @media screen and (max-width: 640px) {
   .image-generator {
     height: 45vh;
